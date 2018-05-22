@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="96612" started-at="2018-05-22T06:44:11Z" finished-at="2018-05-22T06:45:47Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="96612" started-at="2018-05-22T06:44:11Z" finished-at="2018-05-22T06:45:47Z">
+      <class name="com.skypeForBusiness.tests.SkypeScannerBotTest">
+        <test-method status="PASS" signature="reportGrenerator()[pri:0, instance:com.skypeForBusiness.tests.SkypeScannerBotTest@239963d8]" name="reportGrenerator" is-config="true" duration-ms="203" started-at="2018-05-22T06:44:11Z" finished-at="2018-05-22T06:44:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reportGrenerator -->
+        <test-method status="PASS" signature="launchApp()[pri:0, instance:com.skypeForBusiness.tests.SkypeScannerBotTest@239963d8]" name="launchApp" is-config="true" duration-ms="11451" started-at="2018-05-22T06:44:11Z" finished-at="2018-05-22T06:44:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApp -->
+        <test-method status="PASS" signature="skypeScannerBotTest()[pri:0, instance:com.skypeForBusiness.tests.SkypeScannerBotTest@239963d8]" name="skypeScannerBotTest" duration-ms="84058" started-at="2018-05-22T06:44:22Z" finished-at="2018-05-22T06:45:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- skypeScannerBotTest -->
+        <test-method status="PASS" signature="cleanConfig(org.testng.ITestResult)[pri:0, instance:com.skypeForBusiness.tests.SkypeScannerBotTest@239963d8]" name="cleanConfig" is-config="true" duration-ms="643" started-at="2018-05-22T06:45:46Z" finished-at="2018-05-22T06:45:47Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=skypeScannerBotTest status=SUCCESS method=SkypeScannerBotTest.skypeScannerBotTest()[pri:0, instance:com.skypeForBusiness.tests.SkypeScannerBotTest@239963d8] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cleanConfig -->
+        <test-method status="PASS" signature="closeReport()[pri:0, instance:com.skypeForBusiness.tests.SkypeScannerBotTest@239963d8]" name="closeReport" is-config="true" duration-ms="237" started-at="2018-05-22T06:45:47Z" finished-at="2018-05-22T06:45:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeReport -->
+      </class> <!-- com.skypeForBusiness.tests.SkypeScannerBotTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
